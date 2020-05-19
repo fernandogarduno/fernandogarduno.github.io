@@ -1,3 +1,6 @@
+title: Welcome to the Fernando Garduno’s homepage!
+description: Homepage for learning GitHub Pages and Jekyll Themes
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fernandogarduno/fernandogarduno.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
